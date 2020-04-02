@@ -1,3 +1,9 @@
-# jeemeti-1
-# jeemeti-1
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5ff8f6d2-bea2-44be-b8ae-06a963eee425/deploy-status)](https://app.netlify.com/sites/jovial-visvesvaraya-089f2b/deploys)
+
+
+
+
+
+# Jeemeti-website
+Este repositorio es para la creación de la pagina de presentación de la empresa Jeemeti SAS.
+a  medida que avance este proyecto íremos agregando cada vez mas cosas importates.
+
